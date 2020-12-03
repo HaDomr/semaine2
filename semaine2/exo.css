@@ -1,0 +1,54 @@
+h1 {color: seashell;
+ font-size:500%;
+background-color: darkgreen;
+font-weight: bold;
+font-family: fantasy;
+font-family: 'Goldman', cursive;
+
+}
+
+
+h2 {font-family: 'Goldman', cursive;
+    font-family: 'Poppins', sans-serif;
+
+
+}
+
+.rouge {color: black;
+background-color:red;
+font-family: 'Goldman', cursive;
+font-family: 'Merriweather', serif;
+font-family: 'Poppins', sans-serif;
+ }
+
+
+
+td{color: white;
+background-color: chocolate;
+font-family: 'Goldman', cursive;
+font-family: 'Merriweather', serif;
+font-family: 'Poppins', sans-serif;
+}
+
+
+
+body 
+
+{color:white;
+font-family: 'Goldman', cursive;
+font-family: 'Merriweather', serif;
+font-family: 'Poppins', sans-serif;
+background:url("https://i.pinimg.com/564x/11/e9/96/11e99662ac6d9b73b27c73061b637ba1.jpg") no-repeat center center fixed;
+    background-size: cover;
+    background-position: 0%;
+  }
+
+
+.bordure{
+    border: 4px dotted blue;
+    opacity:0.5;
+}
+
+.centre{
+    text-align: center;
+}
